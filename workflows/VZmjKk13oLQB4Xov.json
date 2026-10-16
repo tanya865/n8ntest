@@ -1,0 +1,46 @@
+{
+  "id": "VZmjKk13oLQB4Xov",
+  "name": "Test",
+  "description": null,
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {}
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.4,
+      "position": [
+        0,
+        0
+      ],
+      "id": "380e5017-1df8-40b9-9097-8921d1f341ad",
+      "name": "Schedule Trigger"
+    }
+  ],
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        []
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "triggerCount": 1,
+  "versionId": "f09b8cbe-d77e-478c-9918-7d849c8894a8",
+  "owner": {
+    "type": "personal",
+    "projectId": "enwNqP163bA6XQOJ",
+    "projectName": "Tanya Koleva <tanya@n8n.io>",
+    "personalEmail": "tanya@n8n.io"
+  },
+  "parentFolderId": null,
+  "isArchived": false,
+  "nodeGroups": []
+}
